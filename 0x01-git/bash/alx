@@ -1,7 +1,8 @@
 #!/bin/bash
 <<<<<<< HEAD
-[Local Branch Content]
 =======
-[Remote Branch Content]
->>>>>>> [Remote Branch Na
+echo "ALX School is now open!"
+=======
+>>>>>>> main
 echo "ALX School"
+>>>>>>> update_script
